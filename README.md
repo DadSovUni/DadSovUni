@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/df31b73a-e3e2-4442-8e74-cf71cc27984f" />
+
 
 <!--
 **DadSovUni/DadSovUni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/80111081-b9fd-4c3c-9c12-3a201732815a" />
