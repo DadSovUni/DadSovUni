@@ -1,4 +1,5 @@
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/df31b73a-e3e2-4442-8e74-cf71cc27984f" />
+<img width="735" height="245" alt="image" src="https://github.com/user-attachments/assets/fc2c9cf7-177b-4590-99e1-0fde1fc4279d" />
+
 
 
 <!--
@@ -15,4 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/80111081-b9fd-4c3c-9c12-3a201732815a" />
+
+<img width="1199" height="400" alt="image" src="https://github.com/user-attachments/assets/99803f59-d053-4ff9-9fb9-da7f699099d2" />
