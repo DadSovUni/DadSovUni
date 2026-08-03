@@ -1,6 +1,6 @@
 <img src="https://github.com/user-attachments/assets/fc2c9cf7-177b-4590-99e1-0fde1fc4279d" width="100%" height="120"/>
 <p align="center">
- <span style="font-size: 38px; font-weight: bold; color: #ffffff;"> <h1 align="center">Jimmy.</h1>
+ <span style="font-size: 38px; font-weight: bold; color: #ffffff;"> 
   </span>
 
   <img src="https://github.com/user-attachments/assets/94f82f60-5e94-42ce-93d1-4524eacb5b85" width="150" height="20" alt="blinkie1"/>
