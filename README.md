@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/94f82f60-5e94-42ce-93d1-4524eacb5b85" width="150" height="20" alt="blinkie1"/>
+<img width="150" height="20" alt="tumblr_pc38rqsNC61u4h28eo7_250" src="https://github.com/user-attachments/assets/f79f9875-3ff2-4a02-b25a-35ae9252d796" />
   <img width="150" height="20" alt="tumblr_pdq3xspju31x5gwxfo1_250" src="https://github.com/user-attachments/assets/389c1a70-212a-4f43-bc53-e791f70be733" />
   <img src="https://github.com/user-attachments/assets/f9b8ee02-28df-4973-9284-dfa37cd721e0" width="150" height="20" alt="blinkie3"/>
 </p>
